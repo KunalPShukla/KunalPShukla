@@ -7,7 +7,6 @@ Here you'll find a collection of projects where I've applied various data scienc
 
 - 🎓 I recently completed a comprehensive data science course and am eager to apply my skills in real-world projects.
 - 💼 Currently seeking opportunities in the field of data science to contribute to meaningful projects and solve complex problems.
-- 🔍 I'm particularly interested in areas like predictive analytics, natural language processing, and computer vision.
 
 ## What You'll Find Here
 
