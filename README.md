@@ -1,6 +1,6 @@
 Hi! I'm Kunal Shukla, a passionate Data Scientist and Data Analyst with a strong background in Python programming, SQL, and data visualization. This repository is where I showcase my projects in machine learning, data analysis, and deep learning to solve real-world problems and uncover actionable insights.
 
-Featured Projects 🚀
+Featured Projects:
 1. Netflix Content Analysis Dashboard
 Description: Built an interactive Power BI dashboard analyzing Netflix's movie and TV show catalog.
 Focus: Rating distributions, genre trends, and regional content insights for strategic decision-making.
